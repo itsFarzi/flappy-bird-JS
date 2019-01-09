@@ -1,0 +1,29 @@
+body{
+    background-color: #79C434 ;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width : auto ;
+    height : 500;
+    border-radius: 20px ;
+}
+
+h1 {
+    text-align: center ;
+    font-family: 'Hammersmith One', sans-serif;
+    margin:  0  ;
+    font-size: 250% ;
+    color: white ;
+}
+p{
+    text-align: center ;
+    margin:  0 ;
+    margin-bottom: 5px ;
+    font-family: 'Hammersmith One', sans-serif;
+    color: #FAF11C;
+}
